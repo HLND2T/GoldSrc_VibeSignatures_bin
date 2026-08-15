@@ -1,0 +1,8 @@
+# IDA databases and analysis files — never committed.
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
+*.idb
+*.i64
