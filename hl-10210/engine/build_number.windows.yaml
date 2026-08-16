@@ -1,0 +1,5 @@
+func_name: build_number
+func_va: '0x10193a50'
+func_rva: '0x193a50'
+func_size: '0xb6'
+func_sig: A1 ?? ?? ?? ?? 53 33 DB 85 C0 0F 85 ?? ?? ?? ?? 57 33 FF 0F 1F 40 00 66 0F 1F 84 00 00 00 00 00
