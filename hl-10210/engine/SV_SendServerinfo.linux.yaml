@@ -1,5 +1,0 @@
-func_name: SV_SendServerinfo
-func_va: '0xde920'
-func_rva: '0xde920'
-func_size: '0x48c'
-func_sig: 55 57 56 53 81 EC ?? ?? ?? ?? 8B 84 24 B0 08 00 00 D9 05 ?? ?? ?? ?? D9 EE D9 C9 89 44 24 38 8B 84 24 B4 08 00 00
